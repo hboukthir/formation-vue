@@ -1,0 +1,4 @@
+/** Graphite Design System CSS Variables overrides **/
+:root {
+    --gr-font-family: Avenir, Helvetica, Arial, sans-serif;
+}
